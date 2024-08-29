@@ -1,0 +1,77 @@
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\FF with flow capture.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\NationalInstruments.FieldBus.dll
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.pdb
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\NationalInstruments.FieldBus.dll
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\rfdelec\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.pdb
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.xml
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\NationalInstruments.FieldBus.dll
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\boblies\Desktop\New Folder (4)\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.pdb
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.xml
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\NationalInstruments.Fieldbus.dll
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\boblies\Desktop\FF flow measure 2-4-14 at 11AM\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.pdb
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.xml
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\NationalInstruments.Fieldbus.dll
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\boblies\Documents\Visual Studio 2010\Projects\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe.config
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.exe
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.pdb
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\FF with flow capture.xml
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\bin\Release\NationalInstruments.Fieldbus.dll
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.vbproj.AssemblyReference.cache
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.vbproj.GenerateResource.cache
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.vbproj.CoreCompileInputs.cache
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with .C0BF83CF.Up2Date
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Users\E1487997\Downloads\Maybethiswill\experiment\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb

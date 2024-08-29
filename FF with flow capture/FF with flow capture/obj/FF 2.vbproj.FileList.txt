@@ -1,0 +1,21 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\FF 2.exe
+bin\Debug\FF 2.pdb
+bin\Debug\FF 2.xml
+obj\Debug\FF 2.vbproj.GenerateResource.Cache
+obj\Debug\FF 2.exe
+obj\Debug\FF 2.xml
+obj\Debug\FF 2.pdb
+bin\Release\FF 2.exe
+bin\Release\FF 2.pdb
+bin\Release\FF 2.xml
+bin\Release\NationalInstruments.FieldBus.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Form1.resources
+obj\Release\WindowsApplication1.Resources.resources
+obj\Release\FF 2.vbproj.GenerateResource.Cache
+obj\Release\FF 2.exe
+obj\Release\FF 2.xml
+obj\Release\FF 2.pdb

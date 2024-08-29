@@ -1,0 +1,57 @@
+E:\FF 3 development\FF 3\FF 2\obj\Debug\FF 2.exe
+E:\FF 3 development\FF 3\FF 2\obj\Debug\FF 2.xml
+E:\FF 3 development\FF 3\FF 2\obj\Debug\FF 2.pdb
+E:\FF 3 development\FF 3\FF 2\bin\Debug\FF 2.exe
+E:\FF 3 development\FF 3\FF 2\bin\Debug\FF 2.pdb
+E:\FF 3 development\FF 3\FF 2\bin\Debug\FF 2.xml
+E:\FF 3 development\FF 3\FF 2\obj\Debug\ResolveAssemblyReference.cache
+E:\FF 3 development\FF 3\FF 2\obj\Debug\WindowsApplication1.Form1.resources
+E:\FF 3 development\FF 3\FF 2\obj\Debug\WindowsApplication1.Resources.resources
+E:\FF 3 development\FF 3\FF 2\obj\Debug\GenerateResource.read.1.tlog
+E:\FF 3 development\FF 3\FF 2\obj\Debug\GenerateResource.write.1.tlog
+E:\FF 3 development\FF 3\FF 2\bin\Debug\NationalInstruments.Fieldbus.dll
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.exe
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.xml
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.pdb
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\FF 2.exe
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\FF 2.pdb
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\FF 2.xml
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\NationalInstruments.Fieldbus.dll
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\boblies\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.exe
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.xml
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.pdb
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\FF 2.exe
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\FF 2.pdb
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\FF 2.xml
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\bin\Debug\NationalInstruments.Fieldbus.dll
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\WindowsApplication1.Form1.resources
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\WindowsApplication1.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\rfdelec\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.exe
+C:\Documents and Settings\rfdelec\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.xml
+C:\Documents and Settings\rfdelec\Desktop\FF 3 development (backup from 10-9-13)\FF 3\FF 2\obj\Debug\FF 2.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF 3\FF 2\obj\Debug\FF 2.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF 3\FF 2\obj\Debug\FF 2.xml
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF 3\FF 2\obj\Debug\FF 2.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF 2\obj\Debug\FF 2.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF 2\obj\Debug\FF 2.xml
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF 2\obj\Debug\FF 2.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\FF with flow capture.pdb
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\bin\Debug\NationalInstruments.FieldBus.dll
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.exe
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.xml
+C:\Documents and Settings\rfdelec\Desktop\FF with flow capture\FF with flow capture\FF with flow capture\obj\Debug\FF with flow capture.pdb
