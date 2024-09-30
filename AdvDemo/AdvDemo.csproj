@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{601B49D2-5245-4A0B-A403-C629FAECF456}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>AdvancedDemo</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AdvancedDemo</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <FileAlignment>4096</FileAlignment>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <FileAlignment>4096</FileAlignment>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Condition=" '$(Platform)' == 'x64' " Include="NationalInstruments.FieldBus">
+      <Name>NationalInstruments.FieldBus</Name>
+      <HintPath>..\..\library64\NationalInstruments.FieldBus.dll</HintPath>
+    </Reference>
+    <Reference Condition=" '$(Platform)' == 'x86' " Include="NationalInstruments.FieldBus">
+      <Name>NationalInstruments.FieldBus</Name>
+      <HintPath>..\..\library32\NationalInstruments.FieldBus.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ico" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EditBitString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditFloat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditInteger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditOctetString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditVisiString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Property.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadWrite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitAlertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitTrendForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="EditBitString.resx">
+      <DependentUpon>EditBitString.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBool.resx">
+      <DependentUpon>EditBool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDate.resx">
+      <DependentUpon>EditDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditDay.resx">
+      <DependentUpon>EditDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditFloat.resx">
+      <DependentUpon>EditFloat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditInteger.resx">
+      <DependentUpon>EditInteger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditOctetString.resx">
+      <DependentUpon>EditOctetString.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditTime.resx">
+      <DependentUpon>EditTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditVisiString.resx">
+      <DependentUpon>EditVisiString.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Property.resx">
+      <DependentUpon>Property.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReadWrite.resx">
+      <DependentUpon>ReadWrite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitAlertForm.resx">
+      <DependentUpon>WaitAlertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitTrendForm.resx">
+      <DependentUpon>WaitTrendForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
